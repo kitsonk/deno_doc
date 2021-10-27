@@ -363,8 +363,7 @@ dependencies = [
 [[package]]
 name = "deno_graph"
 version = "0.9.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "f579f93d0bbef0c7207378c9fe34396a965640be84cbf3f8a4608e0fa4e2d386"
+source = "git+https://github.com/kitsonk/deno_graph?branch=align_parking_lot#520d5e5383d3497731d260392d39e02e9c19ab53"
 dependencies = [
  "anyhow",
  "cfg-if 1.0.0",
