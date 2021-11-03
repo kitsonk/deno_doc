@@ -363,7 +363,7 @@ dependencies = [
 [[package]]
 name = "deno_graph"
 version = "0.10.0"
-source = "git+https://github.com/kitsonk/deno_graph?branch=feat_jsx_import_source#3af82bbc0f86161820115ed7054335335e727ba0"
+source = "git+https://github.com/denoland/deno_graph?branch=main#9ce1792360aa1ef1fa9a2f35fd444ad24f7d84ce"
 dependencies = [
  "anyhow",
  "cfg-if 1.0.0",
