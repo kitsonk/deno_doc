@@ -381,7 +381,7 @@ dependencies = [
 [[package]]
 name = "deno_graph"
 version = "0.29.0"
-source = "git+https://github.com/denoland/deno_graph?branch=main#d434f76c5cdf4ea232f95eb18c375740af8b44d1"
+source = "git+https://github.com/kitsonk/deno_graph?branch=chore_sourcemap_601#a811b5c8497eee24bb67c255418de6f65c646ec2"
 dependencies = [
  "anyhow",
  "cfg-if",
